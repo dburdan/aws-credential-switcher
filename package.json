@@ -1,0 +1,8 @@
+{
+  "name": "aws-credential-switcher",
+  "version": "0.0.1",
+  "description": "CLI tool to switch between AWS profiles",
+  "main": "index.js",
+  "author": "Dacri Burdan",
+  "license": "MIT"
+}

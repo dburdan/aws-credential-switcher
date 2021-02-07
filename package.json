@@ -16,6 +16,9 @@
     "aws profiles"
   ],
   "main": "index.js",
+  "bin": {
+    "aws-switch": "./index.js"
+  },
   "scripts": {
     "build": "tsc",
     "go": "tsc && node index.js"

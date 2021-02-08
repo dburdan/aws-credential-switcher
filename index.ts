@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { copyFileSync, existsSync, readFileSync, writeFileSync } from 'fs';
 import inquirer from 'inquirer';
 import { homedir } from 'os';

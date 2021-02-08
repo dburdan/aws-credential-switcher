@@ -1,6 +1,6 @@
 {
   "name": "aws-credential-switcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Dacri Burdan <dev@dacriburdan.com>",
   "license": "MIT",
   "description": "CLI tool to switch between AWS profiles",
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "go": "tsc && node index.js"
+    "prepare": "tsc"
   },
   "dependencies": {
     "commander": "^7.0.0",

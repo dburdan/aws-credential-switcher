@@ -6,7 +6,7 @@ Simple CLI tool that allows you to quickly toggle between AWS CLI profiles. It w
 
 ## 💿 Installation
 ```
-npm i -G aws-credential-switcher
+npm i -g aws-credential-switcher
 ```
 
 ## 💻 Usage
